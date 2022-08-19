@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cda51cb4-38d7-4664-bc3c-31e0181b7535" name="Changes" comment="" />
+    <list default="true" id="cda51cb4-38d7-4664-bc3c-31e0181b7535" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Vowel" />
+        <entry key="$PROJECT_DIR$" value="Largest" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/bridgelabz/day6&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Distance">
+  <component name="RunManager" selected="Application.Quadratic">
     <configuration name="Distance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functions.Distance" />
       <module name="day6" />
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical.Swap" />
+    <configuration name="Quadratic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.Quadratic" />
       <module name="day6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logical.*" />
+          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quadratic" />
         <item itemvalue="Application.Distance" />
         <item itemvalue="Application.Largest" />
         <item itemvalue="Application.Vowel" />
         <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.Swap" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +145,9 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day6$Distance.ic" NAME="Distance Coverage Results" MODIFIED="1660924658758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>functions.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/day6$EvenOdd.ic" NAME="EvenOdd Coverage Results" MODIFIED="1660923764693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>logical.*</FILTER>
     </SUITE>
