@@ -1,7 +1,7 @@
+
 import java.util.Scanner;
 
-public class PrimeFact {
-
+public class facctors {
     public static void main(String[] args) {
 
         int number;
