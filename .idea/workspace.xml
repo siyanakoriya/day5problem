@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cda51cb4-38d7-4664-bc3c-31e0181b7535" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/harmo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leapyear.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Coinflip" />
+        <entry key="$PROJECT_DIR$" value="harmonicof" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DYTu2zudshR4duoxHJCknxk201" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +47,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/bridgelabz/day6&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leapyear">
+  <component name="RunManager" selected="Application.harmo">
     <configuration name="Coinflip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logical.Coinflip" />
       <module name="day6" />
@@ -57,6 +61,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Powerof2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logical.Powerof2" />
+      <module name="day6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logical.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="harmo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="harmo" />
+      <module name="day6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="harmonic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="harmonic" />
+      <module name="day6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leapyear" />
       <module name="day6" />
@@ -66,6 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.harmo" />
+        <item itemvalue="Application.harmonic" />
+        <item itemvalue="Application.Powerof2" />
         <item itemvalue="Application.leapyear" />
         <item itemvalue="Application.Coinflip" />
       </list>
@@ -92,5 +126,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day6$harmonic.ic" NAME="harmonic Coverage Results" MODIFIED="1660906523658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
