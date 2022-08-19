@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class PrimeFact {
-
+public class prime {
     public static void main(String[] args) {
 
         int number;
@@ -23,3 +22,4 @@ public class PrimeFact {
         }
     }
 }
+

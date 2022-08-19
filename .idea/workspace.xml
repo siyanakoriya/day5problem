@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cda51cb4-38d7-4664-bc3c-31e0181b7535" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facctors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/power.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="harmonicof" />
+        <entry key="$PROJECT_DIR$" value="power" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,29 +48,17 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/bridgelabz/day6&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.harmo">
-    <configuration name="Coinflip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical.Coinflip" />
+  <component name="RunManager" selected="Application.prime">
+    <configuration name="PrimeFact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeFact" />
       <module name="day6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="logical.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Powerof2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical.Powerof2" />
+    <configuration name="facctors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="facctors" />
       <module name="day6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="logical.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leapyear" />
+    <configuration name="prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prime" />
       <module name="day6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prime" />
+        <item itemvalue="Application.PrimeFact" />
+        <item itemvalue="Application.facctors" />
         <item itemvalue="Application.harmo" />
         <item itemvalue="Application.harmonic" />
-        <item itemvalue="Application.Powerof2" />
-        <item itemvalue="Application.leapyear" />
-        <item itemvalue="Application.Coinflip" />
       </list>
     </recent_temporary>
   </component>
